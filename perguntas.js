@@ -16,8 +16,21 @@ criaCartao(
     'A Idade'
 )
 
+
 criaCartao(
     'Charada',
     'O que é o que é: pode ser pequeno, mas nunca se perde, sempre está com você?',
+    'Nome'
+)
+
+criaCartao(
+    'Charada',
+    'O que é o que é: sempre está à sua frente, mas você nunca consegue ver?',
+    'O Futuro'
+)
+
+criaCartao(
+    'Charada',
+    'O que é o que é: é leve como um pluma, mas nem o homem mais forte pode segurar por muito tempo?',
     'Nome'
 )
